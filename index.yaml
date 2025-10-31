@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  nginx-helm-chart:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-10-31T12:21:44.347416+05:30"
+    digest: fa43d9caaf91de7f2cc3792bf976310d13a1d710290fcdcfacae56e6222b6397
+    name: nginx-helm-chart
+    urls:
+    - nginx-helm-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-31T12:21:44.346771+05:30"
